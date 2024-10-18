@@ -1,0 +1,90 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1729204008
+icon.svg::CompressedTexture2D::8747265474528774911::1729122209::1729122222::1::::<><>::
+points_label.gd::GDScript::-1::1729199216::0::1::::<>Label<>::
+::res://Assets Super Mario Bros/::1729162266
+::res://Assets Super Mario Bros/Fonts/::1729162269
+font.ttf::FontFile::8059466085011994519::1729162266::1729162268::1::::<><>::
+::res://Assets Super Mario Bros/Sprites/::1729162269
+1upMushroom.png::CompressedTexture2D::7390192947248818213::1729162266::1729162269::1::::<><>::
+Brick.png::CompressedTexture2D::5813354710930139631::1729162266::1729162269::1::::<><>::
+Bush1.png::CompressedTexture2D::2464384990900823727::1729162266::1729162269::1::::<><>::
+Bush2.png::CompressedTexture2D::12782079430158876::1729162266::1729162269::1::::<><>::
+Bush3.png::CompressedTexture2D::696090906217194611::1729162266::1729162269::1::::<><>::
+Castle.png::CompressedTexture2D::2309201612643631639::1729162266::1729162269::1::::<><>::
+Cloud1.png::CompressedTexture2D::5961040787030393723::1729162266::1729162269::1::::<><>::
+Cloud2.png::CompressedTexture2D::5561156865814829619::1729162266::1729162269::1::::<><>::
+Cloud3.png::CompressedTexture2D::3615962840049195617::1729162266::1729162269::1::::<><>::
+Coin1.png::CompressedTexture2D::277141187875356904::1729162266::1729162269::1::::<><>::
+Coin2.png::CompressedTexture2D::3370137199269213537::1729162266::1729162269::1::::<><>::
+Coin3.png::CompressedTexture2D::1199365227152330021::1729162266::1729162269::1::::<><>::
+Coin4.png::CompressedTexture2D::1572757740189775156::1729162266::1729162269::1::::<><>::
+Coin.png::CompressedTexture2D::5305478346155488759::1729162266::1729162269::1::::<><>::
+Coin_Underground.png::CompressedTexture2D::513139621879837031::1729162266::1729162269::1::::<><>::
+EmptyBlock.png::CompressedTexture2D::8811928283182231182::1729162266::1729162269::1::::<><>::
+fireball1.png::CompressedTexture2D::6657385940115297844::1729162266::1729162269::1::::<><>::
+fireball2.png::CompressedTexture2D::509063062700910049::1729162266::1729162269::1::::<><>::
+fireball3.png::CompressedTexture2D::2609444293501888576::1729162267::1729162269::1::::<><>::
+fireball4.png::CompressedTexture2D::7700659171452597976::1729162267::1729162269::1::::<><>::
+Flag.png::CompressedTexture2D::9100340539326353328::1729162267::1729162269::1::::<><>::
+FlagPole.png::CompressedTexture2D::598520282894540196::1729162267::1729162269::1::::<><>::
+Goomba_Flat.png::CompressedTexture2D::7983592814940888098::1729162267::1729162269::1::::<><>::
+Goomba_Walk1.png::CompressedTexture2D::7676212623906740952::1729162267::1729162269::1::::<><>::
+Goomba_Walk2.png::CompressedTexture2D::6427605804574574681::1729162267::1729162269::1::::<><>::
+GroundBlock.png::CompressedTexture2D::2934015530471708413::1729162267::1729162269::1::::<><>::
+HardBlock.png::CompressedTexture2D::2317377125143192083::1729162267::1729162269::1::::<><>::
+Hill1.png::CompressedTexture2D::778633226246871804::1729162267::1729162269::1::::<><>::
+Hill2.png::CompressedTexture2D::5846039332655623058::1729162267::1729162269::1::::<><>::
+Koopa_Shell.png::CompressedTexture2D::8942735322667095450::1729162267::1729162269::1::::<><>::
+Koopa_Walk1.png::CompressedTexture2D::1227911467735474124::1729162267::1729162269::1::::<><>::
+Koopa_Walk2.png::CompressedTexture2D::126945108134726177::1729162267::1729162269::1::::<><>::
+MagicMushroom.png::CompressedTexture2D::2368038233358356393::1729162267::1729162269::1::::<><>::
+Mario-Shooting.png::CompressedTexture2D::1417606252162206933::1729162267::1729162269::1::::<><>::
+Mario_Big_Idle.png::CompressedTexture2D::6175797562911333906::1729162267::1729162269::1::::<><>::
+Mario_Big_Jump.png::CompressedTexture2D::6765536342094397934::1729162267::1729162269::1::::<><>::
+Mario_Big_Pole.png::CompressedTexture2D::5999458798272571840::1729162267::1729162269::1::::<><>::
+Mario_Big_Run1.png::CompressedTexture2D::8661155705429272157::1729162267::1729162269::1::::<><>::
+Mario_Big_Run2.png::CompressedTexture2D::2993733619881566297::1729162267::1729162269::1::::<><>::
+Mario_Big_Run3.png::CompressedTexture2D::6435209966271549879::1729162267::1729162269::1::::<><>::
+Mario_Big_Slide.png::CompressedTexture2D::761259218046973688::1729162267::1729162269::1::::<><>::
+Mario_Shooting-Slide.png::CompressedTexture2D::1872228965935622599::1729162267::1729162269::1::::<><>::
+Mario_Shooting_Idle.png::CompressedTexture2D::2036885432402041917::1729162267::1729162269::1::::<><>::
+Mario_Shooting_Jump.png::CompressedTexture2D::9143068797312668207::1729162267::1729162269::1::::<><>::
+Mario_Shooting_Pole.png::CompressedTexture2D::6344979167733131810::1729162267::1729162269::1::::<><>::
+Mario_Shooting_Run1.png::CompressedTexture2D::3661215054056927275::1729162267::1729162269::1::::<><>::
+Mario_Shooting_Run2.png::CompressedTexture2D::5365886537567889531::1729162267::1729162269::1::::<><>::
+Mario_Shooting_Run3.png::CompressedTexture2D::7193101309730855931::1729162267::1729162269::1::::<><>::
+Mario_Small_Death.png::CompressedTexture2D::2428824828422419949::1729162267::1729162269::1::::<><>::
+Mario_Small_Idle.png::CompressedTexture2D::9144487688257960589::1729162267::1729162269::1::::<><>::
+Mario_Small_Jump.png::CompressedTexture2D::3520339182483621424::1729162267::1729162269::1::::<><>::
+Mario_Small_Pole.png::CompressedTexture2D::5482883780800001165::1729162267::1729162269::1::::<><>::
+Mario_Small_Run1.png::CompressedTexture2D::4664067604346104930::1729162267::1729162269::1::::<><>::
+Mario_Small_Run2.png::CompressedTexture2D::7946212108136664488::1729162267::1729162269::1::::<><>::
+Mario_Small_Run3.png::CompressedTexture2D::8967925637432011416::1729162267::1729162269::1::::<><>::
+Mario_Small_Slide.png::CompressedTexture2D::4797524400168343785::1729162267::1729162269::1::::<><>::
+MysterBox2.png::CompressedTexture2D::971603804738512527::1729162267::1729162269::1::::<><>::
+MysteryBlock.png::CompressedTexture2D::6309763949422468478::1729162267::1729162269::1::::<><>::
+MysteryBox1.png::CompressedTexture2D::6378979740665342384::1729162267::1729162269::1::::<><>::
+PipeBottom.png::CompressedTexture2D::5015898213740301644::1729162267::1729162269::1::::<><>::
+PipeConnection.png::CompressedTexture2D::2332124022115246507::1729162267::1729162269::1::::<><>::
+PipeTop.png::CompressedTexture2D::4530226499812433810::1729162267::1729162269::1::::<><>::
+ShootingFlower.png::CompressedTexture2D::6485372778255438637::1729162267::1729162269::1::::<><>::
+Starman.png::CompressedTexture2D::6251674598620182229::1729162267::1729162269::1::::<><>::
+UndergroundBlock.png::CompressedTexture2D::213074888727736500::1729162267::1729162269::1::::<><>::
+UndergroundBrick.png::CompressedTexture2D::8514537053019460659::1729162267::1729162269::1::::<><>::
+::res://Cena/::1729210605
+Enemy.gd::GDScript::-1::1729209800::0::1::::Enemy<>Area2D<>::
+goomba.gd::GDScript::-1::1729198282::0::1::::Goomba<>Enemy<>::
+goomba.tscn::PackedScene::6565080915229112689::1729209414::0::1::::<><>::res://Cena/goomba.gd<>uid://dl0kuv8e1o6n3::::res://Assets Super Mario Bros/Sprites/Goomba_Flat.png<>uid://dhmodocnsu7ds::::res://Assets Super Mario Bros/Sprites/Goomba_Walk1.png<>uid://cxtty1fuwy5ab::::res://Assets Super Mario Bros/Sprites/Goomba_Walk2.png
+koopa.gd::GDScript::-1::1729204441::0::1::::Koopa<>Enemy<>::
+koopa.tscn::PackedScene::118932897508991775::1729209414::0::1::::<><>::res://Cena/koopa.gd<>uid://d0n6srd2hrk0i::::res://Assets Super Mario Bros/Sprites/Koopa_Shell.png<>uid://rq2r08kewwlo::::res://Assets Super Mario Bros/Sprites/Koopa_Walk1.png<>uid://b2q1ddi7o0ef::::res://Assets Super Mario Bros/Sprites/Koopa_Walk2.png<>uid://543xktqfqxhx::::res://resources/collisionShapes/koopa_full.tres
+main.tscn::PackedScene::2428977151827924049::1729209414::0::1::::<><>::uid://bh2i2pbd72n30::::res://Assets Super Mario Bros/Sprites/GroundBlock.png<>uid://8as4lix1a8pr::::res://Assets Super Mario Bros/Sprites/HardBlock.png<>uid://dbhkvad8kmca::::res://Assets Super Mario Bros/Sprites/UndergroundBlock.png<>uid://dtkrgfs1x5qrr::::res://Assets Super Mario Bros/Sprites/UndergroundBrick.png<>uid://d4nm6kepvjkji::::res://Cena/player.tscn<>uid://c0sf6ntm78rsb::::res://Cena/goomba.tscn<>uid://bxu2pn3x5f4r::::res://Cena/koopa.tscn
+player.gd::GDScript::-1::1729210959::0::1::::Player<>CharacterBody2D<>::
+player.tscn::PackedScene::9222359923031947866::1729209414::0::1::::<><>::uid://d3jwm15et3t22::::res://Assets Super Mario Bros/Sprites/Mario_Small_Idle.png<>res://Cena/player.gd<>uid://cxac2qsxk5uer::::res://resources/collisionShapes/small_mario.tres<>uid://ct8uqpacoxaq1::::res://Assets Super Mario Bros/Sprites/Mario_Big_Idle.png<>res://Cena/PlayerAnimatedSprite.gd<>uid://c3njnoy5owfh3::::res://Assets Super Mario Bros/Sprites/Mario_Big_Jump.png<>uid://crqgheu7ndoxs::::res://Assets Super Mario Bros/Sprites/Mario_Big_Pole.png<>uid://dvnr77h30cjn6::::res://Assets Super Mario Bros/Sprites/Mario_Big_Run1.png<>uid://biwgmc04ug3tt::::res://Assets Super Mario Bros/Sprites/Mario_Big_Run2.png<>uid://cxxi757iq1gnv::::res://Assets Super Mario Bros/Sprites/Mario_Big_Run3.png<>uid://k303fjvwyalc::::res://Assets Super Mario Bros/Sprites/Mario_Big_Slide.png<>uid://4axg8se7m40x::::res://Assets Super Mario Bros/Sprites/Mario_Shooting_Idle.png<>uid://ugx1dv5u8m74::::res://Assets Super Mario Bros/Sprites/Mario-Shooting.png<>uid://d3i8ain3y4vfj::::res://Assets Super Mario Bros/Sprites/Mario_Shooting_Jump.png<>uid://cwns46e1wprcc::::res://Assets Super Mario Bros/Sprites/Mario_Shooting_Pole.png<>uid://bsfrxav8x3dot::::res://Assets Super Mario Bros/Sprites/Mario_Shooting_Run1.png<>uid://cipjmquw1tlrv::::res://Assets Super Mario Bros/Sprites/Mario_Shooting_Run2.png<>uid://daqnle02fss6v::::res://Assets Super Mario Bros/Sprites/Mario_Shooting_Run3.png<>uid://1w6lqgnlyqo2::::res://Assets Super Mario Bros/Sprites/Mario_Shooting-Slide.png<>uid://bausni6inywyv::::res://Assets Super Mario Bros/Sprites/Mario_Small_Death.png<>uid://bqfjqbv1vr2oq::::res://Assets Super Mario Bros/Sprites/Mario_Small_Jump.png<>uid://ckd7ka2h150dt::::res://Assets Super Mario Bros/Sprites/Mario_Small_Pole.png<>uid://b7pkrn5h1n5lm::::res://Assets Super Mario Bros/Sprites/Mario_Small_Run1.png<>uid://dlhg7nbxeials::::res://Assets Super Mario Bros/Sprites/Mario_Small_Run2.png<>uid://d01eopk6c4cx1::::res://Assets Super Mario Bros/Sprites/Mario_Small_Run3.png<>uid://cal7r48xqmfrt::::res://Assets Super Mario Bros/Sprites/Mario_Small_Slide.png
+PlayerAnimatedSprite.gd::GDScript::-1::1729210959::0::1::::PlayerAnimatedSprite<>AnimatedSprite2D<>::
+points_label.tscn::PackedScene::2553135979199025861::1729209414::0::1::::<><>::uid://dm3ch1vmt4ixr::::res://Assets Super Mario Bros/Fonts/font.ttf<>res://points_label.gd
+::res://resources/::1729164871
+::res://resources/collisionShapes/::1729209575
+koopa_full.tres::RectangleShape2D::2167273968385068145::1729204274::0::1::::<><>::
+koopa_shell.tres::RectangleShape2D::4549487508958145599::1729204193::0::1::::<><>::
+small_mario.tres::RectangleShape2D::6387355290721574361::1729173233::0::1::::<><>::

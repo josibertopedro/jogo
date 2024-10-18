@@ -1,0 +1,18 @@
+[gd_scene load_steps=4 format=3 uid="uid://d22235dqqw2a3"]
+
+[ext_resource type="Texture2D" uid="uid://co3bdq1m4vg4f" path="res://Assets Super Mario Bros/Sprites/Brick.png" id="1_0jslw"]
+[ext_resource type="Script" path="res://Cena/brick.gd" id="1_07ng4"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2e3nv"]
+size = Vector2(16, 16)
+
+[node name="Brick" type="StaticBody2D"]
+collision_layer = 16
+collision_mask = 13
+script = ExtResource("1_07ng4")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_0jslw")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_2e3nv")

@@ -1,0 +1,30 @@
+[gd_scene load_steps=4 format=3 uid="uid://bxu2pn3x5f4r"]
+
+[ext_resource type="Script" path="res://Cena/koopa.gd" id="1_j1cb2"]
+[ext_resource type="SpriteFrames" uid="uid://mvvonwqymxug" path="res://Cena/koopa_shell.tres" id="2_jxt4v"]
+[ext_resource type="Shape2D" uid="uid://clfredq37o7vd" path="res://resources/collisionShapes/koopa_full.tres" id="5_bitja"]
+
+[node name="Koopa" type="Area2D"]
+collision_layer = 4
+collision_mask = 9
+script = ExtResource("1_j1cb2")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = ExtResource("2_jxt4v")
+animation = &"walk"
+autoplay = "walk"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 0.5)
+shape = ExtResource("5_bitja")
+
+[node name="RayCast2D" type="RayCast2D" parent="."]
+target_position = Vector2(0, 12)
+collision_mask = 18
+
+[node name="VisibleOnScreenNotifier2D" type="VisibleOnScreenNotifier2D" parent="."]
+position = Vector2(-35, 24)
+scale = Vector2(0.875, 0.775)
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]
+[connection signal="screen_exited" from="VisibleOnScreenNotifier2D" to="." method="_on_visible_on_screen_notifier_2d_screen_exited"]

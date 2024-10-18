@@ -1,0 +1,27 @@
+[gd_resource type="SpriteFrames" load_steps=4 format=3 uid="uid://mvvonwqymxug"]
+
+[ext_resource type="Texture2D" uid="uid://d0n6srd2hrk0i" path="res://Assets Super Mario Bros/Sprites/Koopa_Shell.png" id="1_5r4sv"]
+[ext_resource type="Texture2D" uid="uid://rq2r08kewwlo" path="res://Assets Super Mario Bros/Sprites/Koopa_Walk1.png" id="2_ya534"]
+[ext_resource type="Texture2D" uid="uid://b2q1ddi7o0ef" path="res://Assets Super Mario Bros/Sprites/Koopa_Walk2.png" id="3_lpl2c"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_5r4sv")
+}],
+"loop": true,
+"name": &"dead",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_ya534")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_lpl2c")
+}],
+"loop": true,
+"name": &"walk",
+"speed": 5.0
+}]

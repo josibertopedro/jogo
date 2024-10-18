@@ -1,0 +1,17 @@
+res://Cena/main.tscn
+res://Cena/player.tscn
+res://Cena/goomba.tscn
+res://Cena/Enemy.gd
+res://Cena/koopa.tscn
+res://Cena/koopa.gd
+res://Cena/goomba.gd
+res://Cena/player.gd
+res://resources/collisionShapes/koopa_full.tres
+res://points_label.gd
+res://Cena/points_label.tscn
+res://Cena/PlayerAnimatedSprite.gd
+res://Cena/animated_sprite_2d.gd
+res://resources/collisionShapes/koopa_shell.tres
+res://Cena/block.gd
+res://Cena/brick.gd
+res://Cena/brick.tscn

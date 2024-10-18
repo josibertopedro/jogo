@@ -1,0 +1,12 @@
+CollisionShape2D
+Sprite2D
+StaticBody2D
+Label
+VisibleOnScreenNotifier2D
+RayCast2D
+AnimatedSprite2D
+Area2D
+Node
+CharacterBody2D
+TileMap
+Camera2D
